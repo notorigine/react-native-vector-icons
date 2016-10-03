@@ -45,8 +45,8 @@ const glyphMap = {
   "icon-biopole_unite_recherche_cercle": 61504,
   "icon-biopole_user": 61505,
   "icon-biopole-22": 61506,
-  "icon-square-check": 57414,
-  "icon-stop": 57428,
+  "icon-square-check": 59648,
+  "icon-square-uncheck": 59649,
   "icon-spinner2": 59771,
   "icon-cog": 59796
 };
